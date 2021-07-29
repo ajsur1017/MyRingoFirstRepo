@@ -1,18 +1,24 @@
-# Step One
+# Setting up Git Repo
 
-git add .
-// git status shows staged git
+## Step One
+
+git init
 
 ## Step Two
 
-git commit -m "message"
+git add .
+// git status shows staged git //
 
 ## Step Three
 
-// create repo on git hub
-git remote add orgin <paste url>
+git commit -m "message"
 
 ## Step Four
 
+// create repo on git hub //
+git remote add orgin <paste url>
+
+## Step Five
+
 git push orgin master
-// check it on git hub
+// check it on git hub //
