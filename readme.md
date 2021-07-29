@@ -1,6 +1,7 @@
 # Step One
 
 git add .
+// git status shows staged git
 
 ## Step Two
 
